@@ -139,7 +139,7 @@ No Swagger UI, você pode:
 back/<br>
 ├── src/<br>
 │   ├── controllers/<br>
-│   │   └── investmentController.jsv
+│   │   └── investmentController.js<br>
 │   ├── models/<br>
 │   │   └── investmentModel.js<br>
 │   ├── routes/<br>
