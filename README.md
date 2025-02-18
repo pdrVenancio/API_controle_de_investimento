@@ -136,21 +136,21 @@ No Swagger UI, você pode:
 
 ## Estrutura do Projeto
 
-back/
-├── src/
-│   ├── controllers/
-│   │   └── investmentController.js
-│   ├── models/
-│   │   └── investmentModel.js
-│   ├── routes/
-│   │   └── investmentRoutes.js
-│   ├── config/
-│   │   └── db.js
-│   └── server.js
-├── .env
-├── .gitignore
-├── package.json
-└── README.md
+back/<br>
+├── src/<br>
+│   ├── controllers/<br>
+│   │   └── investmentController.jsv
+│   ├── models/<br>
+│   │   └── investmentModel.js<br>
+│   ├── routes/<br>
+│   │   └── investmentRoutes.js<br>
+│   ├── config/<br>
+│   │   └── db.js<br>
+│   └── server.js<br>
+├── .env<br>
+├── .gitignore<br>
+├── package.json<br>
+└── README.md<br>
 
 ## Contato
 
